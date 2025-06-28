@@ -9,7 +9,7 @@
 </h1>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Dearanlan/Dearanlan@output/github-contribution-grid-snake-dark.svg" /></div>
+<!-- 贪吃蛇代码贡献图 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Dearanlan/Dearanlan@output/github-contribution-grid-snake-dark.svg" /></div> -->
 
 
 
